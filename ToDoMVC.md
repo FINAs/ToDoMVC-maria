@@ -11,11 +11,9 @@ Framkework ToDoMVC comparation 首篇。
 ##maria
 <div style='text-align:center'>
 <img src='mvc.png'/>
-*
-引图 - 这里就不重复叙述了
-深入可阅读
+*引图 - 深入可阅读*
 [scaling-isomorphic-javascript-code](http://blog.nodejitsu.com/scaling-isomorphic-javascript-code/)
-*
+
 </div>
 
 #####index.html
